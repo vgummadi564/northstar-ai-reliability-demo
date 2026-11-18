@@ -1,0 +1,151 @@
+customer_id,customer_name,region,segment,industry,active
+C0001,Northstar Client 0001,North America,SMB,Healthcare,true
+C0002,Northstar Client 0002,Europe,Mid-Market,Financial Services,true
+C0003,Northstar Client 0003,APAC,Enterprise,Retail,true
+C0004,Northstar Client 0004,Latin America,SMB,Manufacturing,true
+C0005,Northstar Client 0005,North America,Mid-Market,Technology,true
+C0006,Northstar Client 0006,Europe,Enterprise,Education,true
+C0007,Northstar Client 0007,APAC,SMB,Healthcare,true
+C0008,Northstar Client 0008,Latin America,Mid-Market,Financial Services,true
+C0009,Northstar Client 0009,North America,Enterprise,Retail,true
+C0010,Northstar Client 0010,Europe,SMB,Manufacturing,true
+C0011,Northstar Client 0011,APAC,Mid-Market,Technology,true
+C0012,Northstar Client 0012,Latin America,Enterprise,Education,true
+C0013,Northstar Client 0013,North America,SMB,Healthcare,true
+C0014,Northstar Client 0014,Europe,Mid-Market,Financial Services,true
+C0015,Northstar Client 0015,APAC,Enterprise,Retail,true
+C0016,Northstar Client 0016,Latin America,SMB,Manufacturing,true
+C0017,Northstar Client 0017,North America,Mid-Market,Technology,true
+C0018,Northstar Client 0018,Europe,Enterprise,Education,true
+C0019,Northstar Client 0019,APAC,SMB,Healthcare,true
+C0020,Northstar Client 0020,Latin America,Mid-Market,Financial Services,true
+C0021,Northstar Client 0021,North America,Enterprise,Retail,true
+C0022,Northstar Client 0022,Europe,SMB,Manufacturing,true
+C0023,Northstar Client 0023,APAC,Mid-Market,Technology,true
+C0024,Northstar Client 0024,Latin America,Enterprise,Education,true
+C0025,Northstar Client 0025,North America,SMB,Healthcare,true
+C0026,Northstar Client 0026,Europe,Mid-Market,Financial Services,true
+C0027,Northstar Client 0027,APAC,Enterprise,Retail,true
+C0028,Northstar Client 0028,Latin America,SMB,Manufacturing,true
+C0029,Northstar Client 0029,North America,Mid-Market,Technology,true
+C0030,Northstar Client 0030,Europe,Enterprise,Education,true
+C0031,Northstar Client 0031,APAC,SMB,Healthcare,true
+C0032,Northstar Client 0032,Latin America,Mid-Market,Financial Services,true
+C0033,Northstar Client 0033,North America,Enterprise,Retail,true
+C0034,Northstar Client 0034,Europe,SMB,Manufacturing,true
+C0035,Northstar Client 0035,APAC,Mid-Market,Technology,true
+C0036,Northstar Client 0036,Latin America,Enterprise,Education,true
+C0037,Northstar Client 0037,North America,SMB,Healthcare,true
+C0038,Northstar Client 0038,Europe,Mid-Market,Financial Services,true
+C0039,Northstar Client 0039,APAC,Enterprise,Retail,true
+C0040,Northstar Client 0040,Latin America,SMB,Manufacturing,true
+C0041,Northstar Client 0041,North America,Mid-Market,Technology,true
+C0042,Northstar Client 0042,Europe,Enterprise,Education,true
+C0043,Northstar Client 0043,APAC,SMB,Healthcare,true
+C0044,Northstar Client 0044,Latin America,Mid-Market,Financial Services,true
+C0045,Northstar Client 0045,North America,Enterprise,Retail,true
+C0046,Northstar Client 0046,Europe,SMB,Manufacturing,true
+C0047,Northstar Client 0047,APAC,Mid-Market,Technology,true
+C0048,Northstar Client 0048,Latin America,Enterprise,Education,true
+C0049,Northstar Client 0049,North America,SMB,Healthcare,true
+C0050,Northstar Client 0050,Europe,Mid-Market,Financial Services,true
+C0051,Northstar Client 0051,APAC,Enterprise,Retail,true
+C0052,Northstar Client 0052,Latin America,SMB,Manufacturing,true
+C0053,Northstar Client 0053,North America,Mid-Market,Technology,true
+C0054,Northstar Client 0054,Europe,Enterprise,Education,true
+C0055,Northstar Client 0055,APAC,SMB,Healthcare,true
+C0056,Northstar Client 0056,Latin America,Mid-Market,Financial Services,true
+C0057,Northstar Client 0057,North America,Enterprise,Retail,true
+C0058,Northstar Client 0058,Europe,SMB,Manufacturing,true
+C0059,Northstar Client 0059,APAC,Mid-Market,Technology,true
+C0060,Northstar Client 0060,Latin America,Enterprise,Education,true
+C0061,Northstar Client 0061,North America,SMB,Healthcare,true
+C0062,Northstar Client 0062,Europe,Mid-Market,Financial Services,true
+C0063,Northstar Client 0063,APAC,Enterprise,Retail,true
+C0064,Northstar Client 0064,Latin America,SMB,Manufacturing,true
+C0065,Northstar Client 0065,North America,Mid-Market,Technology,true
+C0066,Northstar Client 0066,Europe,Enterprise,Education,true
+C0067,Northstar Client 0067,APAC,SMB,Healthcare,true
+C0068,Northstar Client 0068,Latin America,Mid-Market,Financial Services,true
+C0069,Northstar Client 0069,North America,Enterprise,Retail,true
+C0070,Northstar Client 0070,Europe,SMB,Manufacturing,true
+C0071,Northstar Client 0071,APAC,Mid-Market,Technology,true
+C0072,Northstar Client 0072,Latin America,Enterprise,Education,true
+C0073,Northstar Client 0073,North America,SMB,Healthcare,true
+C0074,Northstar Client 0074,Europe,Mid-Market,Financial Services,true
+C0075,Northstar Client 0075,APAC,Enterprise,Retail,true
+C0076,Northstar Client 0076,Latin America,SMB,Manufacturing,true
+C0077,Northstar Client 0077,North America,Mid-Market,Technology,true
+C0078,Northstar Client 0078,Europe,Enterprise,Education,true
+C0079,Northstar Client 0079,APAC,SMB,Healthcare,true
+C0080,Northstar Client 0080,Latin America,Mid-Market,Financial Services,true
+C0081,Northstar Client 0081,North America,Enterprise,Retail,true
+C0082,Northstar Client 0082,Europe,SMB,Manufacturing,true
+C0083,Northstar Client 0083,APAC,Mid-Market,Technology,true
+C0084,Northstar Client 0084,Latin America,Enterprise,Education,true
+C0085,Northstar Client 0085,North America,SMB,Healthcare,true
+C0086,Northstar Client 0086,Europe,Mid-Market,Financial Services,true
+C0087,Northstar Client 0087,APAC,Enterprise,Retail,true
+C0088,Northstar Client 0088,Latin America,SMB,Manufacturing,true
+C0089,Northstar Client 0089,North America,Mid-Market,Technology,true
+C0090,Northstar Client 0090,Europe,Enterprise,Education,true
+C0091,Northstar Client 0091,APAC,SMB,Healthcare,true
+C0092,Northstar Client 0092,Latin America,Mid-Market,Financial Services,true
+C0093,Northstar Client 0093,North America,Enterprise,Retail,true
+C0094,Northstar Client 0094,Europe,SMB,Manufacturing,true
+C0095,Northstar Client 0095,APAC,Mid-Market,Technology,true
+C0096,Northstar Client 0096,Latin America,Enterprise,Education,true
+C0097,Northstar Client 0097,North America,SMB,Healthcare,true
+C0098,Northstar Client 0098,Europe,Mid-Market,Financial Services,true
+C0099,Northstar Client 0099,APAC,Enterprise,Retail,true
+C0100,Northstar Client 0100,Latin America,SMB,Manufacturing,true
+C0101,Northstar Client 0101,North America,Mid-Market,Technology,true
+C0102,Northstar Client 0102,Europe,Enterprise,Education,true
+C0103,Northstar Client 0103,APAC,SMB,Healthcare,true
+C0104,Northstar Client 0104,Latin America,Mid-Market,Financial Services,true
+C0105,Northstar Client 0105,North America,Enterprise,Retail,true
+C0106,Northstar Client 0106,Europe,SMB,Manufacturing,true
+C0107,Northstar Client 0107,APAC,Mid-Market,Technology,true
+C0108,Northstar Client 0108,Latin America,Enterprise,Education,true
+C0109,Northstar Client 0109,North America,SMB,Healthcare,true
+C0110,Northstar Client 0110,Europe,Mid-Market,Financial Services,true
+C0111,Northstar Client 0111,APAC,Enterprise,Retail,true
+C0112,Northstar Client 0112,Latin America,SMB,Manufacturing,true
+C0113,Northstar Client 0113,North America,Mid-Market,Technology,true
+C0114,Northstar Client 0114,Europe,Enterprise,Education,true
+C0115,Northstar Client 0115,APAC,SMB,Healthcare,true
+C0116,Northstar Client 0116,Latin America,Mid-Market,Financial Services,true
+C0117,Northstar Client 0117,North America,Enterprise,Retail,true
+C0118,Northstar Client 0118,Europe,SMB,Manufacturing,true
+C0119,Northstar Client 0119,APAC,Mid-Market,Technology,true
+C0120,Northstar Client 0120,Latin America,Enterprise,Education,true
+C0121,Northstar Client 0121,North America,SMB,Healthcare,true
+C0122,Northstar Client 0122,Europe,Mid-Market,Financial Services,true
+C0123,Northstar Client 0123,APAC,Enterprise,Retail,true
+C0124,Northstar Client 0124,Latin America,SMB,Manufacturing,true
+C0125,Northstar Client 0125,North America,Mid-Market,Technology,true
+C0126,Northstar Client 0126,Europe,Enterprise,Education,true
+C0127,Northstar Client 0127,APAC,SMB,Healthcare,true
+C0128,Northstar Client 0128,Latin America,Mid-Market,Financial Services,true
+C0129,Northstar Client 0129,North America,Enterprise,Retail,true
+C0130,Northstar Client 0130,Europe,SMB,Manufacturing,true
+C0131,Northstar Client 0131,APAC,Mid-Market,Technology,true
+C0132,Northstar Client 0132,Latin America,Enterprise,Education,true
+C0133,Northstar Client 0133,North America,SMB,Healthcare,true
+C0134,Northstar Client 0134,Europe,Mid-Market,Financial Services,true
+C0135,Northstar Client 0135,APAC,Enterprise,Retail,true
+C0136,Northstar Client 0136,Latin America,SMB,Manufacturing,true
+C0137,Northstar Client 0137,North America,Mid-Market,Technology,true
+C0138,Northstar Client 0138,Europe,Enterprise,Education,true
+C0139,Northstar Client 0139,APAC,SMB,Healthcare,true
+C0140,Northstar Client 0140,Latin America,Mid-Market,Financial Services,true
+C0141,Northstar Client 0141,North America,Enterprise,Retail,true
+C0142,Northstar Client 0142,Europe,SMB,Manufacturing,true
+C0143,Northstar Client 0143,APAC,Mid-Market,Technology,true
+C0144,Northstar Client 0144,Latin America,Enterprise,Education,true
+C0145,Northstar Client 0145,North America,SMB,Healthcare,true
+C0146,Northstar Client 0146,Europe,Mid-Market,Financial Services,true
+C0147,Northstar Client 0147,APAC,Enterprise,Retail,true
+C0148,Northstar Client 0148,Latin America,SMB,Manufacturing,true
+C0149,Northstar Client 0149,North America,Mid-Market,Technology,true
+C0150,Northstar Client 0150,Europe,Enterprise,Education,true

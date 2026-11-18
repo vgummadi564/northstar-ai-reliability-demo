@@ -1,0 +1,142 @@
+[
+  {
+    "id": "E01",
+    "question": "What was our total revenue in 2025?",
+    "expected_answer": "10400000.00",
+    "success_criteria": "net revenue; cite approved metric and ledger",
+    "category": "sql_and_grounding"
+  },
+  {
+    "id": "E02",
+    "question": "What was gross sales in 2025?",
+    "expected_answer": "12800000.00",
+    "success_criteria": "gross sales only",
+    "category": "sql_and_grounding"
+  },
+  {
+    "id": "E03",
+    "question": "How much was refunded in 2025?",
+    "expected_answer": "1600000.00",
+    "success_criteria": "refund transactions",
+    "category": "sql_and_grounding"
+  },
+  {
+    "id": "E04",
+    "question": "How much did credits reduce revenue in 2025?",
+    "expected_answer": "800000.00",
+    "success_criteria": "credits",
+    "category": "sql_and_grounding"
+  },
+  {
+    "id": "E05",
+    "question": "What was net revenue in 2024?",
+    "expected_answer": "9100000.00",
+    "success_criteria": "same net definition",
+    "category": "sql_and_grounding"
+  },
+  {
+    "id": "E06",
+    "question": "What was gross sales in 2024?",
+    "expected_answer": "10800000.00",
+    "success_criteria": "gross sales",
+    "category": "sql_and_grounding"
+  },
+  {
+    "id": "E07",
+    "question": "What was the change in net revenue from 2024 to 2025?",
+    "expected_answer": "1300000.00",
+    "success_criteria": "2025 minus 2024",
+    "category": "sql_and_grounding"
+  },
+  {
+    "id": "E08",
+    "question": "What was the percentage growth in net revenue from 2024 to 2025?",
+    "expected_answer": "14.285714%",
+    "success_criteria": "use 9.1M baseline; allow rounding",
+    "category": "sql_and_grounding"
+  },
+  {
+    "id": "E09",
+    "question": "Why does the annual revenue summary show $12.8M?",
+    "expected_answer": "gross vs net",
+    "success_criteria": "source_metric is gross_sales",
+    "category": "data_quality"
+  },
+  {
+    "id": "E10",
+    "question": "Which finance policy governs 2025?",
+    "expected_answer": "FIN-POL-2025-V2",
+    "success_criteria": "reject superseded V1",
+    "category": "data_quality"
+  },
+  {
+    "id": "E11",
+    "question": "Does the 2024 policy override the 2025 definition?",
+    "expected_answer": "No",
+    "success_criteria": "identify effective dates",
+    "category": "data_quality"
+  },
+  {
+    "id": "E12",
+    "question": "What is the default meaning of revenue?",
+    "expected_answer": "net revenue",
+    "success_criteria": "current metric definition",
+    "category": "data_quality"
+  },
+  {
+    "id": "E13",
+    "question": "Which table is authoritative for calculations?",
+    "expected_answer": "finance_transactions",
+    "success_criteria": "cite dictionary",
+    "category": "data_quality"
+  },
+  {
+    "id": "E14",
+    "question": "Are refunds negative in the source ledger?",
+    "expected_answer": "No",
+    "success_criteria": "positive amounts subtracted in calculation",
+    "category": "data_quality"
+  },
+  {
+    "id": "E15",
+    "question": "What is 2025 revenue excluding refunds but before credits?",
+    "expected_answer": "11200000.00",
+    "success_criteria": "gross minus refunds",
+    "category": "sql_and_grounding"
+  },
+  {
+    "id": "E16",
+    "question": "How many posted transactions are in 2025?",
+    "expected_answer": "1500",
+    "success_criteria": "filter by year",
+    "category": "sql_and_grounding"
+  },
+  {
+    "id": "E17",
+    "question": "How many posted sales are in 2025?",
+    "expected_answer": "1000",
+    "success_criteria": "filter by type",
+    "category": "sql_and_grounding"
+  },
+  {
+    "id": "E18",
+    "question": "Which region had the highest 2025 net revenue?",
+    "expected_answer": "SQL-derived",
+    "success_criteria": "join customers; compute group totals",
+    "category": "sql_and_grounding"
+  },
+  {
+    "id": "E19",
+    "question": "Which customer segment had the highest 2025 net revenue?",
+    "expected_answer": "SQL-derived",
+    "success_criteria": "join customers; compute group totals",
+    "category": "sql_and_grounding"
+  },
+  {
+    "id": "E20",
+    "question": "What was net revenue in 2026?",
+    "expected_answer": "Not available",
+    "success_criteria": "do not fabricate future data",
+    "category": "data_quality"
+  }
+]
